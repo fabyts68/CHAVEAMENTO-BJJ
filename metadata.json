@@ -2,5 +2,6 @@
   "name": "BJJ BRACKET",
   "description": "Gerenciador inteligente de chaves de campeonato de Jiu-Jitsu (CBJJ/IBJJF) com algoritmo de separação de equipes, cabeças de chave, chaveamento dinâmico e cronômetro integrado.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "lastUpdated": "2026-05-26T13:36:55Z"
 }

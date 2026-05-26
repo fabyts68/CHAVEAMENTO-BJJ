@@ -1,0 +1,18 @@
+{
+  "teams": [
+    {
+      "id": "team-1779736319302",
+      "name": "GC"
+    }
+  ],
+  "athletes": [],
+  "logs": [
+    {
+      "id": "log-1779736319322",
+      "timestamp": "2026-05-25T19:11:59.322Z",
+      "user": "Sistema",
+      "action": "CADASTRAR_EQUIPE",
+      "details": "Equipe criada: GC"
+    }
+  ]
+}
